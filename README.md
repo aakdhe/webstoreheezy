@@ -10,6 +10,6 @@ A boilerplate for tonight's webstore hackathon. Take a look in the **src/** fold
 
 Good luck hacking, students!
 
-multiple lines
-of text
-go right here
+multiple lines <br>
+of text <br>
+go right here <br>
