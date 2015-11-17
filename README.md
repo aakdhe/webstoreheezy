@@ -9,4 +9,4 @@ A boilerplate for tonight's webstore hackathon. Take a look in the **src/** fold
 
 
 Good luck hacking, students!
-""quote""
+multiple quotes"
